@@ -8,4 +8,4 @@
    - `cd CNCF-Graduated`
    - `git sparse-checkout set --no-cone '*.md'`
    - `git checkout`
- - Having fun working on CNCF graduated documentation sites!
+ - Have fun working on CNCF graduated documentation sites!
